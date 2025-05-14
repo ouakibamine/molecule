@@ -75,7 +75,6 @@ Ce projet est open-source. Licence à déterminer (MIT, GPL, etc.).
 
 **Amine Ouakib**  
 📧 amineouakib3@gmail.com  
-📍 Montréal, QC
 
 ---
 
